@@ -1,0 +1,178 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "type": "raw",
+    "source": "C:/Users/В/.config/fastfetch/images/1.sixel",
+    "width": 30,
+    "height": 15,
+    "padding": {
+      "top": 2,
+      "left": 1
+    }
+  },
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    {
+      "type": "custom",
+      "format": "\u001b[90m  \u001b[31m  \u001b[32m  \u001b[33m  \u001b[34m  \u001b[35m  \u001b[36m  \u001b[37m"
+    },
+    "break",
+    {
+      "type": "title",
+      "keyWidth": 10
+    },
+    "break",
+    
+    // Hardware Category
+    {
+      "type": "custom",
+      "format": "\u001b[34m┌─ Hardware ───────────────────────────────┐"
+    },
+    "break",
+    {
+      "type": "cpu",
+      "format": "{1}",
+      "key": " CPU",
+      "keyColor": "34"
+    },
+    {
+      "type": "gpu",
+      "format": "{2}",
+      "key": " GPU",
+      "keyColor": "34"
+    },
+    {
+      "type": "gpu",
+      "format": "{3}",
+      "key": " GPU",
+      "keyColor": "34"
+    },
+    {
+      "type": "memory",
+      "key": "󰍛 Memory",
+      "keyColor": "34"
+    },
+    {
+      "type": "swap",
+      "key": "󰾴 Swap",
+      "keyColor": "34"
+    },
+    {
+      "type": "disk",
+      "key": " Disk",
+      "keyColor": "34"
+    },
+    {
+      "type": "display",
+      "key": " Display",
+      "keyColor": "34"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[34m└───────────────────────────────────────────┘"
+    },
+    "break",
+    
+    // Software Category
+    {
+      "type": "custom",
+      "format": "\u001b[32m┌─ Software ───────────────────────────────┐"
+    },
+    "break",
+    {
+      "type": "os",
+      "key": " OS",
+      "keyColor": "32"
+    },
+    {
+      "type": "kernel",
+      "key": " Kernel",
+      "keyColor": "32"
+    },
+    {
+      "type": "packages",
+      "key": " Packages",
+      "keyColor": "32"
+    },
+    {
+      "type": "shell",
+      "key": " Shell",
+      "keyColor": "32"
+    },
+    {
+      "type": "terminal",
+      "key": " Terminal",
+      "keyColor": "32"
+    },
+    {
+      "type": "terminalfont",
+      "key": "󰭎 Terminal Font",
+      "keyColor": "32"
+    },
+    {
+      "type": "uptime",
+      "key": " Uptime",
+      "keyColor": "32"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[32m└───────────────────────────────────────────┘"
+    },
+    "break",
+    
+    // Desktop Category
+    {
+      "type": "custom",
+      "format": "\u001b[35m┌─ Desktop ────────────────────────────────┐"
+    },
+    "break",
+    {
+      "type": "wm",
+      "key": " WM",
+      "keyColor": "35"
+    },
+    {
+      "type": "wmtheme",
+      "key": "󰕐 WM Theme",
+      "keyColor": "35"
+    },
+    {
+      "type": "theme",
+      "key": "󰃼 Theme",
+      "keyColor": "35"
+    },
+    {
+      "type": "icons",
+      "key": "󰀻 Icons",
+      "keyColor": "35"
+    },
+    {
+      "type": "font",
+      "key": " Font",
+      "keyColor": "35"
+    },
+    {
+      "type": "cursor",
+      "key": "󰇶 Cursor",
+      "keyColor": "35"
+    },
+    {
+      "type": "command",
+      "key": "󱦟 Command",
+      "keyColor": "35"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[35m└───────────────────────────────────────────┘"
+    },
+    "break",
+    {
+      "type": "custom",
+      "format": "\u001b[90m  \u001b[31m  \u001b[32m  \u001b[33m  \u001b[34m  \u001b[35m  \u001b[36m  \u001b[37m"
+    },
+    "break",
+    "break"
+  ]
+}
