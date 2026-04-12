@@ -7,7 +7,7 @@ I present to you an **anime-style configuration file** for the **Fastfetch** uti
 
 ## 🖼️ Preview
 
-![Preview](path-to-photo)
+![Preview](Preview.png)
 
 ---
 
