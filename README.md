@@ -22,8 +22,7 @@ To use this configuration, you must have **Fastfetch** installed:
 
 Follow these simple steps:
 
-1. 📥 **Download** the configuration file  
-   *(filename here)*
+1. 📥 **Download** the configuration file *(config.jsonc)*
 
 2. 📂 Open File Explorer and navigate to:
 C:/Users/{your username}/.config/fastfetch
