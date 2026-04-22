@@ -14,7 +14,8 @@ I present to you an **anime-style configuration file** for the **Fastfetch** uti
 ## 📦 Requirements
 
 To use this configuration, you must have **Fastfetch** installed:  
-🔗 [Download Fastfetch](https://github.com/fastfetch-cli/fastfetch.git)/n
+🔗 [Download Fastfetch](https://github.com/fastfetch-cli/fastfetch.git)
+
 You may need the font in the {0xProto.zip} archive to display custom icons.
 
 ---
